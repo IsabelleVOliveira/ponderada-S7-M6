@@ -77,7 +77,7 @@ Na Raspberry, deve ser executado apenas o arquivo `sender.py`.
 No sistema operacional do computador que será utilizado para controlar o robô de maneira remota, abra uma janela de terminal no diretório de sua preferência e clone o repositório através do seguinte comando:
 `git clone https://github.com/IsabelleVOliveira/ponderada-S7-M6.git`
 
-Na mesma janela de terminal execute os seguintes comandos: cd `ponderada-S5-M6/src/frontend`
+Na mesma janela de terminal execute os seguintes comandos: cd `src/frontend`
 
 `npm i` 
 `npm run build`
